@@ -1,0 +1,5 @@
+bucket = "salesforce01-qa-terraform-state"
+key = "salesforce01-qa-eventbridge"
+dynamodb_table = "salesforce01-qa-terraform-state-lock"
+region = "us-east-1"
+encrypt ="true"
